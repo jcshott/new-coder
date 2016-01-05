@@ -7,3 +7,4 @@ settings.ini
 twistd.pid
 website/_site/
 */env
+.DS_Store
